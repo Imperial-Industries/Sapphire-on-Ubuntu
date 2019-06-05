@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Sapphire
+Comment=Sapphire Desktop Environment by Imperial Technologies
+Exec=/usr/local/bin/sapphire
+TryExec=/usr/local/bin/sapphire
+Type=XSession
