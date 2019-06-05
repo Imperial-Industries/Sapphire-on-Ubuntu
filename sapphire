@@ -1,0 +1,4 @@
+#!/bin/sh
+gnome-pie &
+feh --bg-fill /home/chronos/Downloads/games.png &
+openbox
