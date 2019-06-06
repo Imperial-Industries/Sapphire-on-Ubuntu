@@ -1,3 +1,4 @@
+#!/bin/sh
 sudo apt-get install snap
 sudo snap install toontown
 sudo snap install spotify
