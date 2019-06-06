@@ -4,3 +4,4 @@ sudo chmod +x /usr/local/bin/sapphire
 sudo mv sapphire.desktop /usr/share/xsessions
 bash requirements.sh
 bash core.sh
+sudo mv games.png /home
